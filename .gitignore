@@ -6,5 +6,4 @@ trained_models/
 raceBERT-ethnicity
 raceBERT-race
 raceBERT
-
-
+venv/

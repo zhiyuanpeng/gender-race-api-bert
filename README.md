@@ -93,4 +93,4 @@ Alternatively, you can work with the transformers models hosted on the huggingfa
 - Race Model: https://huggingface.co/pparasurama/raceBERT
 - Ethnicity Model: https://huggingface.co/pparasurama/raceBERT-ethnicity
 
-Please refer to the [transformers](https://huggingface.co/transformers/) documentation. 
+Please refer to the [transformers](https://huggingface.co/transformers/) documentation.
